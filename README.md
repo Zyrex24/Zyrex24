@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Ahmed+Niazi;BSc+Information+Engineering+Student;AI+%7C+Data+Science+%7C+ML+%7C+Web+Dev;Always+learning+new+things+🚀)](https://github.com/Zyrex24)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Ahmed+Niazi;Student;AI+%7C+Data+Science+%7C+ML+%7C+Web+Dev;Always+learning+new+things)](https://github.com/Zyrex24)
 
 ---
 
