@@ -53,12 +53,6 @@
 
 ---
 
-## GitHub Stats & Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=Zyrex24&theme=tokyonight&border_radius=5)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zyrex24&theme=tokyo-night)
-
----
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Niazi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmniazi)
 [![GitHub](https://img.shields.io/badge/GitHub-Zyrex24-181717?style=for-the-badge&logo=github)](https://github.com/Zyrex24)
