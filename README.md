@@ -45,7 +45,6 @@
 
 ## Highlight Projects
 - **[Data Science Prompt Engineering](https://github.com/Zyrex24/DataScience-Prompt-Engineer-finetuned)** → LLM prompt design for data workflows. 
-- **[Airbnb Listing Analysis](https://github.com/Zyrex24/Airbnb-Listing-analysis)** → EDA, visualization & predictive modeling.  
 - **[ElMawso3a – Online Library](https://github.com/Zyrex24/ElMawso3a-Online-Library)** → Online library built with Django, SQLite, AJAX, and responsive UI.
 - **[Fixbulance](https://www.fixbulance.com/)** → Mobile device repair service with on-site bookings.
 - **[Multithreaded Parking System Simulation](https://github.com/Zyrex24/Multithreaded-Parking-System-Simulation)** → Concurrency & simulation logic.  
