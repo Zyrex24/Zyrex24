@@ -54,8 +54,6 @@
 ---
 
 ## GitHub Stats & Activity
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrex24&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrex24&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Zyrex24&theme=tokyonight&border_radius=5)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zyrex24&theme=tokyo-night)
 
