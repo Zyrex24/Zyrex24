@@ -4,7 +4,7 @@
 ---
 
 ##  About Me
- Curious, hands-on, and always building — I’m Ahmed, currently studying **BSc in Information Engineering** and studied **BSc in Computer Science & AI**.  
+ Curious, hands-on, and always building. I’m Ahmed, currently studying **BSc in Information Engineering** and studied **BSc in Computer Science & AI**.  
  Passionate about **software engineering**, **data science**, **machine learning**, and **AI-powered applications**.  
  Enjoy mixing **software + hardware** for real-world solutions, and exploring **human–AI collaboration** in problem solving.  
 
